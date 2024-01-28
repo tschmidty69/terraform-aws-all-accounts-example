@@ -45,7 +45,7 @@ In fact, the provider will not be used and main.tf is just there to provide a pl
 use Terraform Cloud. You could also use any other backend type just please don't store your state file locally. 
 
 Configure the accounts to exclude in the python script
-
+Koalato
 NOTE: This is set to run against one region only. You could add multiple providers per account in the python file
       to run against multiple regions or use a list of regions to run against. Or something else entirely, your call.
 
